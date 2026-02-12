@@ -42,8 +42,3 @@ Deep learning approach used for improved classification performance.
 
 # Results
 The proposed system achieved approximately 91% accuracy in distinguishing genuine and forged signatures.
-
-
-## ⚙️ Setup & Installation
-
-### Step 1: Create Virtual Environment
